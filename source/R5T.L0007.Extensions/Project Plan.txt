@@ -1,0 +1,4 @@
+R5T.L0007.Extensions - Extensions and custom functionality for the Google.Apis.Gmail Nuget package library.
+
+Goals
+
